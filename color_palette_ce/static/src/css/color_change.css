@@ -1,0 +1,23 @@
+.navbar-default .navbar-nav > li > a {
+    color: #ffffff;
+}
+.navbar-default {
+    border-bottom: 1px solid #00599a;
+    background-color: #0077cd;
+}
+.o_web_client .navbar {
+    color: white;
+}
+.btn-primary {
+    color: #ffffff;
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+}
+.btn-primary:hover {
+    color: #ffffff;
+    background-color: #0077cd;
+    border-color: #0077cd;
+}
+.fa-lg {
+    color: white;
+}

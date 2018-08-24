@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="color_change" name="Change Color" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+            <link rel="stylesheet" href="/color_palette_ce/static/src/css/color_change.css"/>
+        </xpath>
+    </template>
+</odoo>
